@@ -1,0 +1,5 @@
+.*.swp
+.cache
+.shadow-cljs
+node_modules
+public/js
