@@ -12,8 +12,8 @@ importers:
         specifier: link:../concrete.css
         version: link:../concrete.css
       itwriter:
-        specifier: ^0.0.5
-        version: 0.0.5
+        specifier: ^0.0.6
+        version: 0.0.6
       npm:
         specifier: ^10.8.2
         version: 10.8.2
@@ -250,8 +250,8 @@ packages:
   isexe@2.0.0:
     resolution: {integrity: sha512-RHxMLp9lnKHGHRng9QFhRCMbYAcVpn69smSGcq3f36xjgVVWThj4qqLbTLlq7Ssj8B+fIQ1EuCEGI2lKsyQeIw==}
 
-  itwriter@0.0.5:
-    resolution: {integrity: sha512-MO6ZB8qGg2kstMdnR1FvzI4U4uAif1UuKxBUBTL3f/gRgdRg0xH9Vvse1ikYHaFeSrsQJvnrI5OQn6nOaC+SEg==}
+  itwriter@0.0.6:
+    resolution: {integrity: sha512-jZSFvaDNJrPL344EGWpCekK92rDxb6yiM9MklkbHQPHnMuZb39CPHe5r9iOWcUf5Yb7ogQhavsMXghoFE22+6Q==}
 
   js-tokens@4.0.0:
     resolution: {integrity: sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==}
@@ -840,7 +840,7 @@ snapshots:
 
   isexe@2.0.0: {}
 
-  itwriter@0.0.5: {}
+  itwriter@0.0.6: {}
 
   js-tokens@4.0.0: {}
 
